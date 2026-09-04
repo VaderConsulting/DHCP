@@ -21,6 +21,10 @@ VB.NET DHCP sample that queries a DHCP.Server and message-boxes version, subnets
 
 Open `DHCP.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2005
+
 ## Attribution and provenance
 
 - **Assembly copyright:** Copyright ©  2007
