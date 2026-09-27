@@ -27,6 +27,7 @@ Open `DHCP.sln` in Visual Studio.
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder `DHCP`.
 - **Assembly copyright:** Copyright ©  2007
 
 ## License
